@@ -11,8 +11,8 @@ export default function Home() {
 
         <p className="description">
           Get started by configuring your desired network in{" "}
-          <code className="code">src/main.jsx</code>, then modify the{" "}
-          <code className="code">src/App.jsx</code> file!
+          <code className="code">src/index.js</code>, then modify the{" "}
+          <code className="code">src/App.js</code> file!
         </p>
 
         <div className="connect">
